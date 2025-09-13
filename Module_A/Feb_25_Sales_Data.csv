@@ -1,0 +1,12 @@
+TransactionID,City,Product,Price,Quantity,Sales
+1000,Mumbai,Mobile-Apple,70000,3,210000
+1001,Bangalore,Tablet-Lenovo,,3,
+1002,Mumbai,Mobile Apple,70000,2,140000
+1003,Mumbai,Mobile-Samsung,20000,3,60000
+1004,Delhi,Laptop HP,55000,1,55000
+1005,Mumbai,Tablet-Lenovo,18000,2,36000
+1006,Mumbai,Laptop-Dell,62000,2,124000
+1007,Bangalore,Laptop-Dell,62000,3,186000
+1008,Bangalore,Laptop-Dell,62000,1,62000
+1009,Bangalore,Tablet-Lenovo,,1,18000
+1010,Delhi,Tablet Lenovo,18000,1,18000
